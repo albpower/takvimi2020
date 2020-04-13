@@ -1,0 +1,18 @@
+{
+    "Location": "Lokacioni",
+    "City": "Qyteti",
+    "ChooseCity": "Zgjedh qytetin",
+    "Country":"Shteti",
+    "ChooseCountry": "Zgjedh shtetin",
+    "Save": "Ruaj ndryshimet",
+
+    "NextTime": "Koha e ardhshme",
+    "TimeLeft": "Koha e mbetur",
+    "Imsak": "Imsaku",
+    "Fajr": "Sabahu",
+    "Sunrise": "L. e diellit",
+    "Dhuhr": "Dreka",
+    "Asr": "Ikindija",
+    "Maghrib": "Akshami",
+    "Isha": "Jacia"
+}
